@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #103f68;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+        stroke-width: 2.125px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        stroke: #979797;
+        stroke-width: 0.125px;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-8 {
+        fill: #f0b90b;
+      }
+
+      .cls-9 {
+        fill: #fffdfa;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1861" data-name="Ellipse 1861" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24083 -9037)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1757" data-name="Ellipse 1757" class="cls-1" cx="32" cy="32" r="32" transform="translate(19197 -23246)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9742" data-name="Group 9742" transform="translate(-19147 23246)">
+    <g id="Mask_Group_330" data-name="Mask Group 330" class="cls-2" transform="translate(43230 -14209)">
+      <g id="Page-1" transform="translate(-24083 -9037)">
+        <circle id="Oval" class="cls-3" cx="32" cy="32" r="32"/>
+        <path id="Polygon" class="cls-4" d="M32.188,11.164,50.232,21.582V42.418L32.188,52.836,14.143,42.418V21.582Z"/>
+        <path id="Path" class="cls-5" d="M24.379,19.561l-1.686,7.632H41.121l-1.8-7.632Z"/>
+        <path id="Path-2" class="cls-5" d="M22.626,29.8,17.637,33.54l6.8,11.908h2.735l3.212-3.02v-1.5l-3.335-3.2v-5.1Z"/>
+        <path id="Path-2-2" data-name="Path-2" class="cls-5" d="M38.372-29.745l-4.989-3.742,6.8-11.908h2.735l3.211,3.02v1.5l-3.335,3.2v5.1Z" transform="translate(79.513) rotate(180)"/>
+        <path id="Path-3" class="cls-6"/>
+        <path id="Path-4" class="cls-5" d="M27.068,28.362l1.623,4.257-.5,4.771,7.4-.024-.452-4.747,1.6-4.257Z"/>
+      </g>
+    </g>
+    <g id="Mask_Group_332" data-name="Mask Group 332" class="cls-7">
+      <g id="_0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8" data-name="0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8" transform="translate(19197 -23246)">
+        <circle id="Ellipse_1863" data-name="Ellipse 1863" class="cls-8" cx="32" cy="32" r="32"/>
+        <path id="Path_17397" data-name="Path 17397" class="cls-9" d="M20.066,32l-4.9,4.93L10.24,32l4.93-4.93ZM32,20.066,40.432,28.5l4.93-4.93-8.432-8.4L32,10.24l-4.93,4.93-8.4,8.4L23.6,28.5Zm16.83,7L43.934,32l4.93,4.93L53.76,32ZM32,43.934,23.568,35.5l-4.9,4.93L27.1,48.864l4.9,4.9,4.93-4.93L45.362,40.4l-4.93-4.9Zm0-7L36.93,32,32,27.07,27.07,32Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

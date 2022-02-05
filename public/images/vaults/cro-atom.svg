@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-4 {
+        fill: #103f68;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-10, .cls-11, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        stroke-width: 2.125px;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        stroke: #979797;
+        stroke-width: 0.125px;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-9 {
+        fill: #2e3148;
+      }
+
+      .cls-10 {
+        stroke-width: 0.96px;
+      }
+
+      .cls-11 {
+        stroke-width: 0.96px;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1807" data-name="Ellipse 1807" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24123 -23674)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_2221" data-name="Ellipse 2221" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24083 -9037)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <circle id="Ellipse_2096" data-name="Ellipse 2096" class="cls-1" cx="32" cy="32" r="32" transform="translate(-22733 -23593)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_966" data-name="Group 966" transform="translate(24592 24446)">
+    <g id="Group_963" data-name="Group 963" transform="translate(-469 -772)">
+      <g id="Mask_Group_11" data-name="Mask Group 11" class="cls-2">
+        <g id="Mask_Group_471" data-name="Mask Group 471" class="cls-3" transform="translate(-40 -14637)">
+          <g id="Page-1" transform="translate(-24083 -9037)">
+            <circle id="Oval" class="cls-4" cx="32" cy="32" r="32"/>
+            <path id="Polygon" class="cls-5" d="M32.188,11.164,50.232,21.582V42.418L32.188,52.836,14.143,42.418V21.582Z"/>
+            <path id="Path" class="cls-6" d="M24.379,19.561l-1.686,7.632H41.121l-1.8-7.632Z"/>
+            <path id="Path-2" class="cls-6" d="M22.626,29.8l-4.989,3.74,6.8,11.908h2.735l3.212-3.02v-1.5l-3.335-3.2v-5.1Z"/>
+            <path id="Path-2-2" data-name="Path-2" class="cls-6" d="M38.372-29.745l-4.989-3.742,6.8-11.908h2.735l3.211,3.02v1.5l-3.335,3.2v5.1Z" transform="translate(79.513) rotate(180)"/>
+            <path id="Path-3" class="cls-7"/>
+            <path id="Path-4" class="cls-6" d="M27.068,28.362l1.623,4.257-.5,4.771,7.4-.024-.452-4.747,1.6-4.257Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_305" data-name="Mask Group 305" class="cls-8" transform="translate(-1809 -853)">
+      <g id="Group_962" data-name="Group 962" transform="translate(-9185.48 -8912.04)">
+        <circle id="Ellipse_2085" data-name="Ellipse 2085" class="cls-9" cx="32" cy="32" r="32" transform="translate(-13547.52 -14680.96)"/>
+        <g id="Ellipse_2086" data-name="Ellipse 2086" class="cls-10" transform="translate(-13521.28 -14672)">
+          <ellipse class="cls-12" cx="5.76" cy="23.36" rx="5.76" ry="23.36"/>
+          <ellipse class="cls-13" cx="5.76" cy="23.36" rx="5.28" ry="22.88"/>
+        </g>
+        <g id="Ellipse_2087" data-name="Ellipse 2087" class="cls-11" transform="matrix(0.5, 0.866, -0.866, 0.5, -13498.17, -14665.309)">
+          <ellipse class="cls-12" cx="5.76" cy="23.36" rx="5.76" ry="23.36"/>
+          <ellipse class="cls-13" cx="5.76" cy="23.36" rx="5.28" ry="22.88"/>
+        </g>
+        <g id="Ellipse_2088" data-name="Ellipse 2088" class="cls-11" transform="matrix(0.5, -0.866, 0.866, 0.5, -13538.631, -14655.332)">
+          <ellipse class="cls-12" cx="5.76" cy="23.36" rx="5.76" ry="23.36"/>
+          <ellipse class="cls-13" cx="5.76" cy="23.36" rx="5.28" ry="22.88"/>
+        </g>
+        <circle id="Ellipse_2089" data-name="Ellipse 2089" class="cls-1" cx="3.2" cy="3.2" r="3.2" transform="translate(-13518.72 -14652.16)"/>
+        <circle id="Ellipse_2090" data-name="Ellipse 2090" class="cls-1" cx="2.56" cy="2.56" r="2.56" transform="translate(-13506.56 -14662.4)"/>
+        <circle id="Ellipse_2091" data-name="Ellipse 2091" class="cls-1" cx="2.56" cy="2.56" r="2.56" transform="translate(-13534.08 -14656)"/>
+        <circle id="Ellipse_2092" data-name="Ellipse 2092" class="cls-1" cx="2.56" cy="2.56" r="2.56" transform="translate(-13521.92 -14635.52)"/>
+      </g>
+    </g>
+  </g>
+</svg>

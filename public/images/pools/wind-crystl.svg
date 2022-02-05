@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168.934" height="168.934" viewBox="0 0 168.934 168.934">
+  <defs>
+    <style>
+      .cls-1, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        fill: #092d74;
+      }
+
+      .cls-6, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_2049" data-name="Ellipse 2049" class="cls-1" cx="84.467" cy="84.467" rx="84.467" ry="84.467"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_5419" data-name="Rectangle 5419" width="168.933" height="168.934"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_19676" data-name="Path 19676" class="cls-2" d="M168.933,84.467a84.467,84.467,0,1,0-84.467,84.467A84.508,84.508,0,0,0,168.933,84.467Z" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_389" data-name="Mask Group 389" class="cls-3">
+    <g id="WIND">
+      <rect id="Logo_Darkblue" class="cls-4" width="168.933" height="168.934"/>
+      <g id="Group_11268" data-name="Group 11268" class="cls-5">
+        <g id="Group_11267" data-name="Group 11267" transform="translate(0)">
+          <image id="Rectangle_5418" data-name="Rectangle 5418" width="168.933" height="168.934" transform="translate(0)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAABBCAYAAACO98lFAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEUklEQVR4nO1b7XIbIQyUP9r3f+Prj4YL6HalFWA70+nOZBBCgBArnX1Jbmb2y/7iZt+4Ja06xvoVHEH/IG00drF5fnUqAVAPHwVlFke3Vi8zu6htfh03M/sNnF1tI7kKdLu9vNqeTDAbD7I7CKivILrtFQyM8OmgBqBSKwyMVRytjvXjrB1snqYH4FNsaEAHjw4Z2VivUwvjLjbsoHaVBalOYYI67vVe5+UKohtWbWggMiZUgoFaL6M+QqUgqofv5SElIibMsGFHgZwpiBHdU5kx4SewoUEpdsw+kpsflAm+vxIMLxvRH0BXQfXw51jGBN/fyQaPiOa9rDz7kWykD5mQ9TPZH6gSiB7q94TINnuCUCa0/ivYgPoIagFcYUHTHf67Q3R4359lQ6RDdWGFBRb0T11LB8aEmdRArZcZvI1SE5gdWqP1h/0yJhjQvSsdetuZoujno/0HJnjMBIPZIDkDrOJ2PQAKBJrPdGauMCppYaTv9dHhV5jAZDn/kf4OHEDBQPosLZCsskFhFNs/2gvqWTr0E5S0QA6icdRHUJjgU8Xbo/18KpiRdIgimNUEVc7AagKT1TRAfsB0aIYZQ/yi0Y1ngY2Cz9aoPn3omVgQ/ETVQbUuVFKwso9S2C+4q4bBJtkc1XZlbla32Jybmd08ExRHM1oqxXFwwrjTCgtmCu9gEz0iM9qqyA43a6vOb3p6pqwm9AtEG2a3w+ZVx2fZFkIJQrRJFeoa79yrFISZjT5VGEuoBmHHDb0DJT9XmfBP4H8QrB4E9AXkJ6Lk5yoTss0OIlfXruxTRiUIO1igrvHOvaQgHGRBdFO+Zetl+2VjaB/mYxoMFITD/UTOKMgCOGurzm96eiYfBGVDb8NuR72lKOAK25g/EQabe+KEn1jd8FOFsXIe+mbpYphsrLJASTM/XtmHBSMMCAuC4ihzzOvRmHewEujKvmi/C56dQY/Ly0gwFr3sZDJamznM+uwCVMZdAv90jrKN0dvb6NA+QN5eRXZ4JFdTAtaELIKo72XVQQa1LmRMyNY1M5wO6NZ7PWMCu/1XMUEpjowFg/4ODNBi0QbmWtXBCFHxjfat+H/qn86oIasBrY+KI2rRfAUsEL6dCcapf9j4Tx/K7xZmfzHikRVjpFMDgBhDA5IxocICBj+uMAI5m7UqGyAT2j99ICagfiRnr9wr7/6Up0NrV1LjTIfVFGBYedtspteE1s6kxoFqggX9SK7WBK9n6bFSHJXUsIdd/1CjevgZRHNZPejlncFImZDJXrf6u8TmINNFnx0iXRQMygRVnimAu75ArbDhwgT/Jzve0ZnnPcMrng5NrgRjWOvx9ZPdsnL4HanQI/usgHRKMC66jAmVFPB2q1hNidamOoUJSiHczYLTQaKbYQOd14JgVn/2I6wWRI9dbPAtZMKKowp21YZdQRjWetj3X7A1ZCyosmMVWRB6uRwA25wOuz5NesykRDR2sfkDufSChOSzKloAAAAASUVORK5CYII="/>
+          <path id="Path_19674" data-name="Path 19674" class="cls-6" d="M168.933,84.467a84.467,84.467,0,1,0-84.467,84.467A84.508,84.508,0,0,0,168.933,84.467Z" transform="translate(0)"/>
+          <g id="Group_11266" data-name="Group 11266" class="cls-7">
+            <g id="Group_11265" data-name="Group 11265" transform="translate(22.026 52.816)">
+              <path id="Path_19675" data-name="Path 19675" class="cls-8" d="M18.665,72.088l-1.8,1.645-8.522-9.31L46.812,29.2h0a33.969,33.969,0,0,1,47.255.759l-.013.013a21.449,21.449,0,0,0,30.32-.013l8.852,8.855a33.965,33.965,0,0,1-24.017,9.949c-.73,0-1.455-.023-2.181-.07l7.4,7.394A33.971,33.971,0,0,1,90.4,66.035q-1.1,0-2.178-.068l7.394,7.394a33.97,33.97,0,0,1-48.039,0l.013-.013a21.45,21.45,0,0,0-28.929-1.26ZM66.4,56.075A21.443,21.443,0,0,0,38,54.378l-.6.546a33.96,33.96,0,0,1,19.05,9.582l-.013.013A21.449,21.449,0,0,0,85.5,65.679a33.952,33.952,0,0,1-19.11-9.593ZM85.2,38.8a21.446,21.446,0,0,0-29.046-1.159,33.96,33.96,0,0,1,19.11,9.593l-.013.01A21.446,21.446,0,0,0,104.3,48.406a33.968,33.968,0,0,1-19.11-9.593l.01-.013Z" transform="translate(-8.345 -20.009)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

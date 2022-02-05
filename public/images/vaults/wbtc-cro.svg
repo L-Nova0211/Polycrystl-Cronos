@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #5a5564;
+      }
+
+      .cls-3 {
+        fill: #f09242;
+      }
+
+      .cls-4 {
+        fill: #282138;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        fill: #103f68;
+      }
+
+      .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 2.125px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-9 {
+        stroke: #979797;
+        stroke-width: 0.125px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_2215" data-name="Ellipse 2215" class="cls-1" cx="32" cy="32" r="32" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12721" data-name="Group 12721" transform="translate(-15924 23412)">
+    <circle id="Ellipse_2216" data-name="Ellipse 2216" class="cls-1" cx="32" cy="32" r="32" transform="translate(15924 -23412)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(15924 -23412)">
+      <g id="Layer_1" data-name="Layer 1">
+        <g id="Page-1">
+          <g id="wbtc_colour" data-name="wbtc colour">
+            <path id="Shape" class="cls-2" d="M87.847,22.9,86.09,24.658a24.877,24.877,0,0,1,0,33.576l1.757,1.757a27.39,27.39,0,0,0,0-37.131Z" transform="translate(-35.662 -9.47)"/>
+            <path id="Shape-2" data-name="Shape" class="cls-2" d="M24.728,16.819a24.877,24.877,0,0,1,33.576,0l1.757-1.757a27.39,27.39,0,0,0-37.131,0Z" transform="translate(-9.499 -3.235)"/>
+            <path id="Shape-3" data-name="Shape" class="cls-2" d="M16.819,58.305a24.877,24.877,0,0,1,0-33.558L15.061,22.99a27.39,27.39,0,0,0,0,37.131Z" transform="translate(-3.235 -9.523)"/>
+            <path id="Shape-4" data-name="Shape" class="cls-2" d="M58.293,86.05a24.877,24.877,0,0,1-33.576,0L22.96,87.807a27.39,27.39,0,0,0,37.131,0Z" transform="translate(-9.511 -35.645)"/>
+            <path id="Shape-5" data-name="Shape" class="cls-3" d="M57.713,37.321c-.351-3.667-3.515-4.9-7.515-5.272V27H47.1v4.956H44.633V27H41.563v5.084H35.29v3.31s2.284-.041,2.249,0A1.6,1.6,0,0,1,39.3,36.753V50.671a1.084,1.084,0,0,1-.375.756,1.072,1.072,0,0,1-.8.269c.041.035-2.249,0-2.249,0l-.586,3.7H41.5v5.166H44.6v-5.09H47.07v5.067h3.1V55.427c5.225-.316,8.868-1.6,9.325-6.5.369-3.936-1.482-5.694-4.44-6.4C56.852,41.644,57.965,40,57.713,37.321Zm-4.335,11c0,3.843-6.584,3.4-8.681,3.4V44.907C46.794,44.912,53.378,44.309,53.378,48.322Zm-1.435-9.606c0,3.515-5.494,3.087-7.24,3.087V35.6C46.449,35.6,51.943,35.054,51.943,38.715Z" transform="translate(-14.619 -11.185)"/>
+            <path id="Shape-6" data-name="Shape" class="cls-4" d="M31.994,64A32,32,0,1,1,64,32,32,32,0,0,1,31.994,64Zm0-61.5a29.487,29.487,0,1,0,20.87,8.632A29.487,29.487,0,0,0,31.994,2.5Z" transform="translate(0 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_468" data-name="Mask Group 468" class="cls-5" transform="translate(15974 -23412)">
+      <g id="Page-1-2" data-name="Page-1" transform="translate(0)">
+        <circle id="Oval" class="cls-6" cx="32" cy="32" r="32"/>
+        <path id="Polygon" class="cls-7" d="M32.188,11.164,50.232,21.582V42.418L32.188,52.836,14.143,42.418V21.582Z"/>
+        <path id="Path" class="cls-8" d="M24.379,19.561l-1.686,7.632H41.121l-1.8-7.632Z"/>
+        <path id="Path-2" class="cls-8" d="M22.626,29.8,17.637,33.54l6.8,11.908h2.735l3.212-3.02v-1.5l-3.335-3.2v-5.1Z" transform="translate(0)"/>
+        <path id="Path-2-2" data-name="Path-2" class="cls-8" d="M7.757,0l4.989,3.742-6.8,11.908H3.211L0,12.629v-1.5l3.335-3.2v-5.1Z" transform="translate(33.383 29.745)"/>
+        <path id="Path-3" class="cls-9" transform="translate(0)"/>
+        <path id="Path-4" class="cls-8" d="M27.068,28.362l1.623,4.257-.5,4.771,7.4-.024-.452-4.747,1.6-4.257Z" transform="translate(0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

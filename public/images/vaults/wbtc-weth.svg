@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #5a5564;
+      }
+
+      .cls-3 {
+        fill: #f09242;
+      }
+
+      .cls-4 {
+        fill: #282138;
+      }
+
+      .cls-5 {
+        fill: #343434;
+      }
+
+      .cls-6 {
+        fill: #8c8c8c;
+      }
+
+      .cls-7 {
+        fill: #3c3c3b;
+      }
+
+      .cls-8 {
+        fill: #141414;
+      }
+
+      .cls-9 {
+        fill: #393939;
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="_124-1245793_ethereum-eth-icon-ethereum-png-transparent-png" data-name="124-1245793_ethereum-eth-icon-ethereum-png-transparent-png" class="cls-1" cx="32" cy="32" r="32" transform="translate(16823 -23648)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_12717" data-name="Group 12717" transform="translate(-16773 23648)">
+    <circle id="Ellipse_103" data-name="Ellipse 103" class="cls-1" cx="32" cy="32" r="32" transform="translate(16773 -23648)"/>
+    <circle id="Ellipse_104" data-name="Ellipse 104" class="cls-1" cx="32" cy="32" r="32" transform="translate(16823 -23648)"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(16773 -23648)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <g id="Page-1">
+          <g id="wbtc_colour" data-name="wbtc colour">
+            <path id="Shape" class="cls-2" d="M87.847,22.9,86.09,24.658a24.877,24.877,0,0,1,0,33.576l1.757,1.757a27.39,27.39,0,0,0,0-37.131Z" transform="translate(-35.662 -9.47)"/>
+            <path id="Shape-2" data-name="Shape" class="cls-2" d="M24.728,16.819a24.877,24.877,0,0,1,33.576,0l1.757-1.757a27.39,27.39,0,0,0-37.131,0Z" transform="translate(-9.499 -3.235)"/>
+            <path id="Shape-3" data-name="Shape" class="cls-2" d="M16.819,58.305a24.877,24.877,0,0,1,0-33.558L15.061,22.99a27.39,27.39,0,0,0,0,37.131Z" transform="translate(-3.235 -9.523)"/>
+            <path id="Shape-4" data-name="Shape" class="cls-2" d="M58.293,86.05a24.877,24.877,0,0,1-33.576,0L22.96,87.807a27.39,27.39,0,0,0,37.131,0Z" transform="translate(-9.511 -35.645)"/>
+            <path id="Shape-5" data-name="Shape" class="cls-3" d="M57.713,37.321c-.351-3.667-3.515-4.9-7.515-5.272V27H47.1v4.956H44.633V27H41.563v5.084H35.29v3.31s2.284-.041,2.249,0A1.6,1.6,0,0,1,39.3,36.753V50.671a1.084,1.084,0,0,1-.375.756,1.072,1.072,0,0,1-.8.269c.041.035-2.249,0-2.249,0l-.586,3.7H41.5v5.166H44.6v-5.09H47.07v5.067h3.1V55.427c5.225-.316,8.868-1.6,9.325-6.5.369-3.936-1.482-5.694-4.44-6.4C56.852,41.644,57.965,40,57.713,37.321Zm-4.335,11c0,3.843-6.584,3.4-8.681,3.4V44.907C46.794,44.912,53.378,44.309,53.378,48.322Zm-1.435-9.606c0,3.515-5.494,3.087-7.24,3.087V35.6C46.449,35.6,51.943,35.054,51.943,38.715Z" transform="translate(-14.619 -11.185)"/>
+            <path id="Shape-6" data-name="Shape" class="cls-4" d="M31.994,64A32,32,0,1,1,64,32,32,32,0,0,1,31.994,64Zm0-61.5a29.487,29.487,0,1,0,20.87,8.632A29.487,29.487,0,0,0,31.994,2.5Z" transform="translate(0 0)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Layer_x0020_1" transform="translate(16835.35 -23648)">
+      <g id="_1421394342400">
+        <g id="Group_12713" data-name="Group 12713">
+          <path id="Path_21305" data-name="Path 21305" class="cls-5" d="M19.644,0l-.429,1.458V43.777l.429.428L39.287,32.594Z"/>
+          <path id="Path_21306" data-name="Path 21306" class="cls-6" d="M19.644,0,0,32.594,19.644,44.2V0Z"/>
+          <path id="Path_21307" data-name="Path 21307" class="cls-7" d="M19.644,47.924l-.242.3V63.294l.242.706L39.3,36.319Z"/>
+          <path id="Path_21308" data-name="Path 21308" class="cls-6" d="M19.644,64V47.924L0,36.319Z"/>
+          <path id="Path_21309" data-name="Path 21309" class="cls-8" d="M19.644,44.2,39.287,32.594,19.644,23.665Z"/>
+          <path id="Path_21310" data-name="Path 21310" class="cls-9" d="M0,32.594,19.644,44.2V23.665Z"/>
+        </g>
+      </g>
+    </g>
+    <circle id="_124-1245793_ethereum-eth-icon-ethereum-png-transparent-png-2" data-name="124-1245793_ethereum-eth-icon-ethereum-png-transparent-png" class="cls-1" cx="32" cy="32" r="32" transform="translate(16823 -23648)"/>
+    <g id="Mask_Group_463" data-name="Mask Group 463" class="cls-10">
+      <g id="Layer_x0020_1-2" data-name="Layer_x0020_1" transform="translate(16835.883 -23647.506)">
+        <g id="_1421394342400-2" data-name="_1421394342400" transform="translate(1 2)">
+          <g id="Group_12714" data-name="Group 12714">
+            <path id="Path_21311" data-name="Path 21311" class="cls-5" d="M19.61,0l-.4,1.345v39.02l.4.395L37.723,30.054Z" transform="translate(-1.497)"/>
+            <path id="Path_21312" data-name="Path 21312" class="cls-6" d="M18.113,0,0,30.054,18.113,40.76V0Z"/>
+            <path id="Path_21313" data-name="Path 21313" class="cls-7" d="M19.625,47.02l-.223.272v13.9l.223.651L37.748,36.319Z" transform="translate(-1.512 -2.83)"/>
+            <path id="Path_21314" data-name="Path 21314" class="cls-6" d="M18.113,61.843V47.02L0,36.319Z" transform="translate(0 -2.83)"/>
+            <path id="Path_21315" data-name="Path 21315" class="cls-8" d="M19.644,42.6,37.756,31.9,19.644,23.665Z" transform="translate(-1.531 -1.844)"/>
+            <path id="Path_21316" data-name="Path 21316" class="cls-9" d="M0,31.9,18.113,42.6V23.665Z" transform="translate(0 -1.844)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

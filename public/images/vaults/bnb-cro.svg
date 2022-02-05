@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="64" viewBox="0 0 114 64">
+  <defs>
+    <style>
+      .cls-1, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #f0b90b;
+      }
+
+      .cls-4 {
+        fill: #fffdfa;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-6 {
+        fill: #103f68;
+      }
+
+      .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+        stroke-width: 2.125px;
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-9 {
+        stroke: #979797;
+        stroke-width: 0.125px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_1770" data-name="Ellipse 1770" class="cls-1" cx="32" cy="32" r="32" transform="translate(19147 -23143)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <circle id="Ellipse_1862" data-name="Ellipse 1862" class="cls-1" cx="32" cy="32" r="32" transform="translate(-24083 -9037)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9743" data-name="Group 9743" transform="translate(-19147 23143)">
+    <g id="Mask_Group_333" data-name="Mask Group 333" class="cls-2">
+      <g id="_0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8" data-name="0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8" transform="translate(19147 -23143)">
+        <circle id="Ellipse_1864" data-name="Ellipse 1864" class="cls-3" cx="32" cy="32" r="32"/>
+        <path id="Path_17398" data-name="Path 17398" class="cls-4" d="M20.066,32l-4.9,4.93L10.24,32l4.93-4.93ZM32,20.066,40.432,28.5l4.93-4.93-8.432-8.4L32,10.24l-4.93,4.93-8.4,8.4L23.6,28.5Zm16.83,7L43.934,32l4.93,4.93L53.76,32ZM32,43.934,23.568,35.5l-4.9,4.93L27.1,48.864l4.9,4.9,4.93-4.93L45.362,40.4l-4.93-4.9Zm0-7L36.93,32,32,27.07,27.07,32Z"/>
+      </g>
+    </g>
+    <g id="Mask_Group_331" data-name="Mask Group 331" class="cls-5" transform="translate(43280 -14106)">
+      <g id="Page-1" transform="translate(-24083 -9037)">
+        <circle id="Oval" class="cls-6" cx="32" cy="32" r="32"/>
+        <path id="Polygon" class="cls-7" d="M32.188,11.164,50.232,21.582V42.418L32.188,52.836,14.143,42.418V21.582Z"/>
+        <path id="Path" class="cls-8" d="M24.379,19.561l-1.686,7.632H41.121l-1.8-7.632Z"/>
+        <path id="Path-2" class="cls-8" d="M22.626,29.8,17.637,33.54l6.8,11.908h2.735l3.212-3.02v-1.5l-3.335-3.2v-5.1Z"/>
+        <path id="Path-2-2" data-name="Path-2" class="cls-8" d="M38.372-29.745l-4.989-3.742,6.8-11.908h2.735l3.211,3.02v1.5l-3.335,3.2v5.1Z" transform="translate(79.513) rotate(180)"/>
+        <path id="Path-3" class="cls-9"/>
+        <path id="Path-4" class="cls-8" d="M27.068,28.362l1.623,4.257-.5,4.771,7.4-.024-.452-4.747,1.6-4.257Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
